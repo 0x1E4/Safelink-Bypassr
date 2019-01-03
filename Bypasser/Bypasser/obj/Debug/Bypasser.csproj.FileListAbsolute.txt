@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2015\Projects\Bypasser\Bypasser\bin\Debug\Bypasser.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\Bypasser\Bypasser\bin\Debug\Bypasser.exe
+c:\users\asus\documents\visual studio 2015\Projects\Bypasser\Bypasser\bin\Debug\Bypasser.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Bypasser\Bypasser\obj\Debug\Bypasser.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\Bypasser\Bypasser\obj\Debug\Bypasser.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\Bypasser\Bypasser\obj\Debug\Bypasser.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\Bypasser\Bypasser\obj\Debug\Bypasser.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\Bypasser\Bypasser\obj\Debug\Bypasser.exe
+c:\users\asus\documents\visual studio 2015\Projects\Bypasser\Bypasser\obj\Debug\Bypasser.pdb
